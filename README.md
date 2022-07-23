@@ -1,7 +1,7 @@
 ![](https://github.com/Cocokringle/Cocokringle/blob/main/headerGitHub.png)
 
 <h1 align="center">Welcome to my GitHub <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center">I am Frontend developer </h2>
+<h2 align="center">I'm a Front-End Developer from Ukraine, but currently residing in the Czech Republic</h2>
 
 - 🔭 I’m currently working on improving my programming skills 
 - 🌱 I’m currently learning TypeScript 
