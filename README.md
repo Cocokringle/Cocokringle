@@ -5,8 +5,9 @@
 
 - 🔭 I’m currently working on improving my programming skills 
 - 🌱 I’m currently learning TypeScript 
+- 🤔 The next technologies to explore are Vue.js and MySQL
+- ⚡ Fun fact: I love quests and board games
 - 📫 How to reach me: belodedenko.nataliia@gmail.com 
-- ⚡ Fun fact: ... 
 
 Skills: REACT / JS / HTML5 / CSS3 / SASS / Node.js
 
