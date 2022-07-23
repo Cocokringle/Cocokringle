@@ -1,8 +1,7 @@
-<h1 align="center">Welcome to my GitHub<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
 ![](https://github.com/Cocokringle/Cocokringle/blob/main/headerGitHub.png)
 
-<h3 align="center">I am Frontend developer</h3>
+<h1 align="center">Welcome to my GitHub <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I am Frontend developer </h3>
 
 - 🔭 I’m currently working on improving my programming skills 
 - 🌱 I’m currently learning TypeScript 
