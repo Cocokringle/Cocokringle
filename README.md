@@ -28,6 +28,6 @@ Mostly uses:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cocokringle&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cocokringle&show_icons=true&layout=compact)  
+Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cocokringle&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cocokringle&show_icons=true&layout=compact)  
 
