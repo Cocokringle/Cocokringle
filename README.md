@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on improving my programming skills 
 - 🌱 I’m currently learning TypeScript 
 - 🤔 The next technologies to explore are Vue.js and MySQL
-- ⚡ Fun fact: I love googling 
 - 📫 How to reach me: belodedenko.nataliia@gmail.com 
 
 <p>Knows about:</p>
