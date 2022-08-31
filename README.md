@@ -4,8 +4,7 @@
 <h2 align="center">I'm a Front-End Developer from Ukraine, but currently residing in the Czech Republic</h2>
 
 - 🔭 I’m currently working on improving my programming skills 
-- 🌱 I’m currently learning TypeScript 
-- 🤔 The next technologies to explore are Vue.js and MySQL
+- 🤔 The next technologies to explore are TypeScript, React Native, Vue.js, MySQL
 - 📫 How to reach me: belodedenko.nataliia@gmail.com 
 
 <p>Knows about:</p>
