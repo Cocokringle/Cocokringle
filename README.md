@@ -1,9 +1,12 @@
 ![](https://github.com/Cocokringle/Cocokringle/blob/main/headerGitHub.png)
-
+<div>
 <h1 align="center">Welcome to my GitHub <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<!-- <h2 align="center">I'm a Front-End Developer from Ukraine, but currently residing in the Czech Republic</h2> -->
+<h2 align="center">I'm a Front-End Developer</h2>
+</div>
 
-- 🔭 I’m currently working on improving my programming skills 
+
+- 👨‍🎓 I graduated from the <a href="https://goit.ua/?lang=uk">GoIT</a> academy
+- 📚 I’m currently working on improving my programming skills
 - 🤔 The next technologies to explore are TypeScript, React Native, Vue.js, MySQL
 - 📫 How to reach me: belodedenko.nataliia@gmail.com 
 
