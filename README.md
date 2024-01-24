@@ -1,10 +1,7 @@
-![](https://github.com/Cocokringle/Cocokringle/blob/main/headerGitHub.png)
-
 <h1 align="center">Welcome to my GitHub <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br/><img src="https://komarev.com/ghpvc/?username=Cocokringle&style=flat-square&color=blue" alt=""/></h1>
 <h2 align="center">I'm a Full Stack Developer</h2>
 
 - 👩🏻‍💻 I work in <a href="https://ein-des-ein.com/">Ein-des-ein</a>
-- 👨‍🎓 I graduated from the <a href="https://goit.ua/?lang=uk">GoIT</a> academy
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/nataliia-belodedenko-%F0%9F%87%BA%F0%9F%87%A6-900434229/">LinkedIn</a>
 
 
